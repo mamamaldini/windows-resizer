@@ -1,26 +1,26 @@
-# 🎨 Smart Window Resizer
+# Advanced Window Resizer
 
-A colorful and interactive Python Tkinter application that allows users to resize the application window instantly using custom dimensions or preset sizes.
+An interactive Python Tkinter application that allows users to resize the application window instantly using custom dimensions or preset sizes.
 
 ---
 
 # 📸 Preview
 
 ```
-+-------------------------------------------+
-|      🎨 Smart Window Resizer              |
-|                                           |
-| Width : 800                               |
-| Height: 600                               |
-|                                           |
-| 🚀 Resize   🔄 Reset   📍 Center          |
-|                                           |
-| Small Medium Large HD                     |
-|                                           |
-| 🖥 Screen Resolution: 1920 x 1080          |
-|                                           |
-| ✅ Window resized successfully             |
-+-------------------------------------------+
+--------------------------------------------
+       🎨 Smart Window Resizer             
+                                           
+ Width : 800                               
+ Height: 600                               
+                                           
+ Resize      Reset      Center         
+                                           
+ Small  Medium  Large  HD                    
+
+ Screen Resolution: 1920 x 1080          
+
+ Window resized successfully!           
+--------------------------------------------
 ```
 
 ---
@@ -44,7 +44,6 @@ A colorful and interactive Python Tkinter application that allows users to resiz
 # 📦 Requirements
 
 Python 3.x
-
 Tkinter (Included with Python)
 
 ---
@@ -62,9 +61,10 @@ python window_resizer.py
 ```
 Window-Resizer/
 │
-├── window_resizer.py
+├── windows-resizer.py
+├── windowresizer-adv.py
 ├── README.md
-└── screenshot.png (Optional)
+└── preview.png
 ```
 
 ---
@@ -73,11 +73,11 @@ Window-Resizer/
 
 1. Enter Width.
 2. Enter Height.
-3. Click **🚀 Resize**.
+3. Click **Resize**.
 4. Or select a preset size.
 5. Press **Enter** for quick resizing.
-6. Use **📍 Center** to move the window to the center.
-7. Use **🔄 Reset** to restore the default size.
+6. Use **Center** to move the window to the center.
+7. Use **Reset** to restore the default size.
 
 ---
 
@@ -92,20 +92,8 @@ Window-Resizer/
 
 ---
 
-# 💡 Future Improvements
 
-- 🌈 Theme Switcher
-- 📐 Window Opacity Control
-- 🖼 Custom Background Images
-- 💾 Save Last Window Size
-- 📊 Resize Animation
-- 📋 Window Size History
-- 🌙 Dark/Light Mode Toggle
-- 🧮 Aspect Ratio Lock
-
----
-
-# ❤️ Built With
+#  Built With -
 
 - Python
 - Tkinter
@@ -113,4 +101,3 @@ Window-Resizer/
 
 ---
 
-## ⭐ If you like this project, give it a star!
