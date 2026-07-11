@@ -65,11 +65,11 @@ Window-Resizer/
 
 # Preset Sizes
 
--Preset : (Resolution)
--Small : (400 × 300)
--Medium : (800 × 600)
--Large : (1200 × 800)
--HD : (1366 × 768)
+- Preset : (Resolution)
+- Small : (400 × 300)
+- Medium : (800 × 600)
+- Large : (1200 × 800)
+- HD : (1366 × 768)
 
 ---
 
