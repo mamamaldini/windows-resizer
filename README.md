@@ -7,21 +7,7 @@ An interactive Python Tkinter application that allows users to resize the applic
 # 📸 Preview
 
 ```
---------------------------------------------
-       🎨 Smart Window Resizer             
-                                           
- Width : 800                               
- Height: 600                               
-                                           
- Resize      Reset      Center         
-                                           
- Small  Medium  Large  HD                    
-
- Screen Resolution: 1920 x 1080          
-
- Window resized successfully!           
---------------------------------------------
-```
+![Advanced Window Resizer](preview.png)
 
 ---
 
