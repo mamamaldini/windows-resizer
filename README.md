@@ -9,7 +9,7 @@ An interactive Python Tkinter application that allows users to resize the applic
 ```
 ![Advanced Window Resizer](preview.png)
 
----
+```
 
 # ✨ Features
 
