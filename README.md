@@ -6,10 +6,9 @@ An interactive Python Tkinter application that allows users to resize the applic
 
 # 📸 Preview
 
-```
-![Advanced Window Resizer](preview.png)
+![Smart Window Resizer](images/output.png)
 
-```
+---
 
 # ✨ Features
 
