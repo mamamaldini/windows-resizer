@@ -4,57 +4,54 @@ An interactive Python Tkinter application that allows users to resize the applic
 
 ---
 
-# 📸 Preview
+# Preview
 
 ![Advanced Window Resizer](preview.png)
 
 ---
 
-# ✨ Features
+# Features
 
-- 🎨 Modern Dark Theme
-- 📏 Resize Window Instantly
-- 🎯 One-click Preset Sizes
-- 📍 Center Window
-- 🔄 Reset to Default
-- 🖥 Display Screen Resolution
-- ⌨ Press Enter to Resize
-- ✅ Input Validation
-- ❌ Error Popups
-- 💬 Live Status Messages
-- 🖱 Beginner-Friendly GUI
+- Resize Window Instantly
+- Single click Preset Sizes
+- Center Window
+- Reset to Default option
+- Displays Screen Resolution
+- Input Validation
+- Error Popups
+- Beginner-Friendly GUI
 
 ---
 
-# 📦 Requirements
+# Requirements
 
-Python 3.x
-Tkinter (Included with Python)
+- Python 3.x Version
+- Tkinter (Included with Python)
 
 ---
 
-# ▶️ Run
+# Run
 
 ```bash
-python window_resizer.py
+python win_resizer.py
 ```
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Window-Resizer/
 │
-├── windows-resizer.py
-├── windowresizer-adv.py
+├── win_resizer.py
+├── win_resizer(basic).py
 ├── README.md
 └── preview.png
 ```
 
 ---
 
-# 🎮 How to Use
+# How to Use
 
 1. Enter Width.
 2. Enter Height.
@@ -66,14 +63,13 @@ Window-Resizer/
 
 ---
 
-# 🚀 Preset Sizes
+# Preset Sizes
 
-| Preset | Resolution |
-|---------|------------|
-| Small | 400 × 300 |
-| Medium | 800 × 600 |
-| Large | 1200 × 800 |
-| HD | 1366 × 768 |
+-Preset : (Resolution)
+-Small : (400 × 300)
+-Medium : (800 × 600)
+-Large : (1200 × 800)
+-HD : (1366 × 768)
 
 ---
 
@@ -82,7 +78,7 @@ Window-Resizer/
 
 - Python
 - Tkinter
-- ttk Widgets
+  
 
 ---
 
